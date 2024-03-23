@@ -1,0 +1,4 @@
+venv/*
+www.google.com_cookies.txt
+certificate.crt
+privatekey.key
