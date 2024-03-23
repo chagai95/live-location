@@ -1,0 +1,4 @@
+locationsharinglib
+flask
+waitress
+flask-cors
